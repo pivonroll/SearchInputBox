@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>search.png</file>
+    </qresource>
+    <qresource prefix="/stylesheets">
+        <file>stylesheet.qss</file>
+    </qresource>
+</RCC>
