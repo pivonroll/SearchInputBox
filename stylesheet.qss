@@ -1,6 +1,6 @@
 QPushButton#SearchInputBoxButton {
     background-color: rgb(255, 255, 255);
-    border-image: url(:/icons/search.png);
+    border-image: url(:/icons/search_icon);
 }
 
 QLineEdit {
